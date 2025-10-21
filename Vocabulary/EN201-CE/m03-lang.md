@@ -1,8 +1,8 @@
 ---
 parent: EN201-CE
-title: "M03: Lang"
+title: M03：编程语言与开发工具
 ---
-# 模块三：**编程语言与开发工具**（Programming Languages & Development Tools）
+# M03：编程语言与开发工具
 
 ## ① 基础概念（Core Concepts）
 
