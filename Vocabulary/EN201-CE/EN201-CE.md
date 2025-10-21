@@ -1,6 +1,7 @@
 ---
 layout: page
 title: EN201-CE
+parent: Vocabulary
 ---
 
 # EN201-CE
