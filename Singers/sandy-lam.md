@@ -5,6 +5,13 @@ parent: Singers
 date: 2025-10-30
 ---
 # Sandy Lam
+{:.no_toc}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## The Life and Achievements of Sandy Lam
 
