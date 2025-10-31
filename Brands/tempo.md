@@ -3,7 +3,9 @@ title: Tempo
 layout: page
 parent: Brands
 date: 2025-10-30
+done: true
 ---
+
 # Tempo
 
 ## The Development History of Tempo and Its Growth in China
