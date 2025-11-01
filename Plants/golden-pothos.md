@@ -1,7 +1,7 @@
 ---
 title: Golden Pothos
 layout: page
-parent: Brands
+parent: Plants
 date: 2025-11-01
 done: false
 ---
