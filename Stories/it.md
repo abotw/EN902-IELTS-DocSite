@@ -4,6 +4,9 @@ parent: Stories
 layout: page
 date: 2025-10-31
 ---
+
+# It
+
 _Stephen King’s_ **_It_** is one of his most famous and sprawling horror novels, published in **1986**, and it’s both a terrifying supernatural story and a coming-of-age epic about friendship, trauma, and the loss of childhood innocence.
 
 Here’s a summary of the story and its key ideas 👇
