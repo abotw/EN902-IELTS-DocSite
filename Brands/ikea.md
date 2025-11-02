@@ -3,9 +3,15 @@ title: IKEA
 layout: page
 parent: Brands
 date: 2025-10-30
+url: https://www.ikea.cn/cn/zh/
 done: true
 ---
+
 # IKEA
+
+![](attachments/ikea.svg)
+
+- [https://www.ikea.cn/cn/zh/](https://www.ikea.cn/cn/zh/)
 
 ## The Development History of IKEA and Its Growth in China
 

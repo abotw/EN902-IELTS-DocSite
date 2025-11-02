@@ -4,9 +4,14 @@ layout: page
 parent: Brands
 date: 2025-10-31
 done: false
+url: https://www.lego.com/zh-cn
 ---
 
 # LEGO
+
+![](attachments/lego.svg)
+
+- [https://www.lego.com/zh-cn](https://www.lego.com/zh-cn)
 
 ## The Development History of LEGO and Its Business Expansion in China
 

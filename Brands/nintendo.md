@@ -4,9 +4,14 @@ layout: page
 parent: Brands
 date: 2025-10-30
 done: true
+url: https://www.nintendo.com/hk/
 ---
 
 # Nintendo
+
+![](attachments/nintendo.webp)
+
+- [https://www.nintendo.com/hk/](https://www.nintendo.com/hk/)
 
 ## The Development and Opportunities of Nintendo Co., Ltd.
 

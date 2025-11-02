@@ -4,9 +4,14 @@ layout: page
 parent: Brands
 date: 2025-10-30
 done: true
+url: https://www.haidilao.com/
 ---
 
 # Haidilao
+
+![](attachments/haidilao.svg)
+
+- [https://www.haidilao.com/](https://www.haidilao.com/)
 
 ## The Origin and Development of Haidilao
 

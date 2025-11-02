@@ -4,9 +4,14 @@ layout: page
 parent: Brands
 date: 2025-10-30
 done:
+url: https://www.biotherm.com.cn/
 ---
 
 # Biotherm
+
+![](attachments/biotherm.png)
+
+- [https://www.biotherm.com.cn/](https://www.biotherm.com.cn/)
 
 ## The Development History of Biotherm and Its Growth in China
 

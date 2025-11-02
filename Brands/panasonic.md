@@ -4,9 +4,14 @@ layout: page
 parent: Brands
 date: 2025-10-30
 done: false
+url: https://panasonic.cn/
 ---
 
 # Panasonic
+
+![](attachments/panasonic.svg)
+
+- [https://panasonic.cn/](https://panasonic.cn/)
 
 ## The Development History of Panasonic and Its Business Growth in China
 

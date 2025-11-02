@@ -4,9 +4,14 @@ layout: page
 parent: Brands
 date: 2025-10-30
 done: false
+url: https://www.uniqlo.cn/
 ---
 
 # Uniqlo
+
+![](attachments/uniqlo.svg)
+
+- [https://www.uniqlo.cn/](https://www.uniqlo.cn/)
 
 ## The Development History of Uniqlo and Its Business Growth in China
 

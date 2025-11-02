@@ -4,9 +4,12 @@ layout: page
 parent: Brands
 date: 2025-10-30
 done: true
+url: https://www.hp.com/cn-zh/home.html
 ---
 
 # HP
+
+- [https://www.hp.com/cn-zh/home.html](https://www.hp.com/cn-zh/home.html)
 
 ## The Origins and Development of Hewlett-Packard (HP)
 

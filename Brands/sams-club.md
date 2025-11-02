@@ -4,8 +4,16 @@ layout: page
 parent: Brands
 date: 2025-10-30
 done:
+url: https://www.samsclub.cn/
 ---
+
 # Sam’s Club
+
+<div style="background: #000">
+	<img src="attachments/sams.png">
+</div>
+
+- [https://www.samsclub.cn/](https://www.samsclub.cn/)
 
 ## The Development History of Sam’s Club and Its Growth in China
 

@@ -4,9 +4,14 @@ layout: page
 parent: Brands
 date: 2025-10-30
 done: true
+url: https://www.vinda.com/
 ---
 
 # Tempo
+
+![](attachments/tempo.jpg)
+
+- [https://www.vinda.com/](https://www.vinda.com/)
 
 ## The Development History of Tempo and Its Growth in China
 

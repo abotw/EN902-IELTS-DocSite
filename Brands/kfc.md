@@ -4,9 +4,14 @@ layout: page
 parent: Brands
 date: 2025-10-30
 done: true
+url: https://www.kfc.com.cn/
 ---
 
 # KFC
+
+![](attachments/kfc.png)
+
+- [https://www.kfc.com.cn/](https://www.kfc.com.cn/)
 
 ## The Development History of KFC and Its Growth in China
 

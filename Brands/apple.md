@@ -3,10 +3,13 @@ title: Apple
 layout: page
 parent: Brands
 date: 2025-10-30
+url: https://www.apple.com.cn/
 done: true
 ---
 
 # Apple
+
+- [https://www.apple.com.cn/](https://www.apple.com.cn/)
 
 ## The Development and Opportunities of Apple Inc.
 

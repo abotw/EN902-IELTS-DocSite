@@ -4,8 +4,14 @@ layout: page
 parent: Brands
 date: 2025-10-30
 done: true
+url: https://www.decathlon.com.cn/
 ---
+
 # Decathlon
+
+![](attachments/decathlon.png)
+
+- [https://www.decathlon.com.cn/](https://www.decathlon.com.cn/)
 
 ## The Origins and Development of Decathlon
 

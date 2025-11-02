@@ -4,9 +4,16 @@ layout: page
 parent: Brands
 date: 2025-10-31
 done: false
+url: https://www.walmart.cn/
 ---
 
 # Walmart
+
+<div style="background: #000">
+	<img src="attachments/walmart.png">
+</div>
+
+- [https://www.walmart.cn/](https://www.walmart.cn/)
 
 ## The Development History of Walmart and Its Business Expansion in China
 

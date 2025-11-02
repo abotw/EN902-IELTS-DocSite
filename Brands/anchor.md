@@ -3,10 +3,15 @@ title: Anchor
 layout: page
 parent: Brands
 date: 2025-10-30
+url: https://www.anchor.cn/
 done: true
 ---
 
 # Anchor
+
+![](attachments/anchor.png)
+
+- [https://www.asics.com.cn/](https://www.asics.com.cn/)
 
 ## The Development History of Anchor Milk and Its Growth in China
 

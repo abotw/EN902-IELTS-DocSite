@@ -4,9 +4,14 @@ layout: page
 parent: Brands
 date: 2025-10-31
 done: false
+url: https://www.unilever.com.cn/brands/beauty-wellbeing/dove/
 ---
 
 # Dove
+
+![](attachments/dove.avif)
+
+- [https://www.unilever.com.cn/brands/beauty-wellbeing/dove/](https://www.unilever.com.cn/brands/beauty-wellbeing/dove/)
 
 ## The Development History of Dove and Its Business Expansion in China
 

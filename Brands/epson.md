@@ -3,10 +3,13 @@ title: Epson
 layout: page
 parent: Brands
 date: 2025-10-30
+url: https://www.epson.com.cn/
 done: true
 ---
 
 # Epson
+
+- [https://www.epson.com.cn/](https://www.epson.com.cn/)
 
 ## The Development and Opportunities of Epson Corporation
 

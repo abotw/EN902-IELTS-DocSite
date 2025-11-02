@@ -4,9 +4,12 @@ layout: page
 parent: Brands
 date: 2025-10-31
 done: false
+url: https://www.newbalance.com.cn/
 ---
 
 # New Balance
+
+- [https://www.newbalance.com.cn/](https://www.newbalance.com.cn/)
 
 ## The Development History of New Balance and Its Business Expansion in China
 

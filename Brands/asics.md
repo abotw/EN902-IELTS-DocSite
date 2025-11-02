@@ -3,10 +3,15 @@ title: ASICS
 layout: page
 parent: Brands
 date: 2025-10-30
+url: https://www.asics.com.cn/
 done: true
 ---
 
 # ASICS
+
+![](attachments/asics.svg)
+
+- [https://www.asics.com.cn/](https://www.asics.com.cn/)
 
 ## The Development History of ASICS and Its Business Growth in China
 

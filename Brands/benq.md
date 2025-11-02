@@ -3,10 +3,15 @@ title: BenQ
 layout: page
 parent: Brands
 date: 2025-10-30
+url: https://www.benq.com.cn/
 done: true
 ---
 
 # BenQ
+
+![](attachments/benq.png)
+
+- [https://www.benq.com.cn/](https://www.benq.com.cn/)
 
 ## The Origins and Development of BenQ
 

@@ -4,9 +4,14 @@ layout: page
 parent: Brands
 date: 2025-10-30
 done: true
+url: https://www.mxbc.com/
 ---
 
 # Mixue Bingcheng
+
+![](attachments/mxbc.svg)
+
+- [https://www.mxbc.com/](https://www.mxbc.com/)
 
 ## The Origin and Development of Mixue Bingcheng
 

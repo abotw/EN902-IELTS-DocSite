@@ -4,13 +4,16 @@ layout: page
 parent: Brands
 date: 2025-10-30
 done: true
+url: https://www.sony.com.cn/
 ---
 
 # Sony
 
-![](../attachments/sony-logo.png)
+<div style="background: #000">
+	<img src="attachments/sony.jpg">
+</div>
 
-- [Sony China](https://www.sony.com.cn/)
+- [https://www.sony.com.cn/](https://www.sony.com.cn/)
 
 ## The Development and Opportunities of Sony Corporation
 
