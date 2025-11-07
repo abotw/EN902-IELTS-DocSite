@@ -14,7 +14,7 @@ Fast food has become an essential part of modern life, combining speed, convenie
 
 ### McDonald’s
 
-![](../../../attachments/mcd.jpg)
+![](attachments/mcd.jpg)
 
 - [https://www.mcdonalds.com.cn/](https://www.mcdonalds.com.cn/)
 
@@ -33,17 +33,11 @@ Mr. Wei Burger is a newer and lesser-known Chinese fast-food brand that focuses 
 
 ### Lao Xiang Ji (老乡鸡)
 
-![](../../../attachments/Pasted%20image%2020251107154551.png)
+![](attachments/lxj.png)
 
 - [https://lxjchina.com.cn/](https://lxjchina.com.cn/)
 
 Founded in 2003 in Anhui Province, Lao Xiang Ji (literally “Country Chicken”) began as a **local restaurant serving traditional Chinese chicken rice**. Unlike most Western-style fast-food chains, Lao Xiang Ji specializes in **Chinese-style set meals**, including **stewed chicken soup, rice, and vegetables**. It has successfully modernized Chinese comfort food into a **fast, affordable, and standardized dining experience**, earning it the title of **“China’s national fast-food brand.”**
-
----
-
-### **KFC (Kentucky Fried Chicken)**
-
-KFC was founded by Colonel Harland Sanders in Kentucky, USA, in 1930. It started as a small roadside restaurant serving fried chicken and gradually grew into one of the largest fast-food chains in the world. KFC entered China in 1987 and quickly became a cultural icon, adapting its menu to local tastes with items like **egg tarts, rice bowls, and spicy chicken burgers**. Its famous “secret recipe” of eleven herbs and spices remains one of the best-kept secrets in the food industry.
 
 ---
 

@@ -9,7 +9,7 @@ done: true
 
 # Haidilao | 海底捞
 
-![](../../attachments/haidilao.svg)
+![](attachments/haidilao.svg)
 
 - [https://www.haidilao.com/](https://www.haidilao.com/)
 

@@ -1,7 +1,7 @@
 ---
 title: Weilong
 layout: page
-parent: Kitchen
+parent: Deil
 date: 2025-11-07
 url: https://www.weilongshipin.com/
 done: false

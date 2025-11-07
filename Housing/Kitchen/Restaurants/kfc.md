@@ -2,16 +2,18 @@
 title: KFC
 layout: page
 parent: Restaurants
-date: 2025-10-30
+date: 2025-11-07
 url: https://www.kfc.com.cn/
 done: true
 ---
 
-# KFC | 肯德基
+# KFC (Kentucky Fried Chicken) | 肯德基
 
-![](../../attachments/kfc.png)
+![](attachments/kfc.png)
 
 - [https://www.kfc.com.cn/](https://www.kfc.com.cn/)
+
+KFC was founded by Colonel Harland Sanders in Kentucky, USA, in 1930. It started as a small roadside restaurant serving fried chicken and gradually grew into one of the largest fast-food chains in the world. KFC entered China in 1987 and quickly became a cultural icon, adapting its menu to local tastes with items like **egg tarts, rice bowls, and spicy chicken burgers**. Its famous “secret recipe” of eleven herbs and spices remains one of the best-kept secrets in the food industry.
 
 ## The Development History of KFC and Its Growth in China
 
