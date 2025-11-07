@@ -1,12 +1,12 @@
 ---
-title: fruit
+title: Fruit
 has_children: "true"
 parent: Kitchen
 ---
 
 # Fruit
 
-![Fruit A-Z](fruit-a_z.pdf)
+- [Fruit A-Z](fruit-a_z.pdf)
 
 ---
 

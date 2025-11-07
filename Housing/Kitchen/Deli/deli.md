@@ -1,5 +1,5 @@
 ---
-title: deli
+title: Deli
 has_children: "true"
 parent: Kitchen
 ---
