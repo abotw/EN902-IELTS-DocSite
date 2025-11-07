@@ -12,18 +12,6 @@ Fast food has become an essential part of modern life, combining speed, convenie
 
 ---
 
-### **KFC (Kentucky Fried Chicken)**
-
-KFC was founded by Colonel Harland Sanders in Kentucky, USA, in 1930. It started as a small roadside restaurant serving fried chicken and gradually grew into one of the largest fast-food chains in the world. KFC entered China in 1987 and quickly became a cultural icon, adapting its menu to local tastes with items like **egg tarts, rice bowls, and spicy chicken burgers**. Its famous “secret recipe” of eleven herbs and spices remains one of the best-kept secrets in the food industry.
-
----
-
-### **Pizza Hut**
-
-Pizza Hut was established in 1958 in Wichita, Kansas, by two brothers, Dan and Frank Carney. It is known for its **variety of pizzas, pasta, and side dishes**, offering a more casual dining experience than typical fast-food chains. In China, Pizza Hut presents itself as a family-friendly restaurant, often incorporating local ingredients and seasonal dishes. Its success lies in combining **Western-style pizza with a sit-down dining atmosphere** that appeals to both young people and families.
-
----
-
 ### McDonald’s
 
 ![](../../../attachments/mcd.jpg)
@@ -39,6 +27,29 @@ Founded in 1940 by Richard and Maurice McDonald and later expanded by Ray Kroc, 
 - [https://www.weijia1999.com/html/brand/266.html](https://www.weijia1999.com/html/brand/266.html)
 
 Mr. Wei Burger is a newer and lesser-known Chinese fast-food brand that focuses on **Western-style burgers and fried chicken**. While it draws inspiration from global brands like McDonald’s and KFC, Mr. Wei Burger emphasizes **affordable pricing and local flavors**, aiming to compete in China’s rapidly growing fast-food market. Its menu often features **innovative burgers, crispy chicken, and combo meals** designed to attract young customers.
+
+---
+
+
+### Lao Xiang Ji (老乡鸡)
+
+![](../../../attachments/Pasted%20image%2020251107154551.png)
+
+- [https://lxjchina.com.cn/](https://lxjchina.com.cn/)
+
+Founded in 2003 in Anhui Province, Lao Xiang Ji (literally “Country Chicken”) began as a **local restaurant serving traditional Chinese chicken rice**. Unlike most Western-style fast-food chains, Lao Xiang Ji specializes in **Chinese-style set meals**, including **stewed chicken soup, rice, and vegetables**. It has successfully modernized Chinese comfort food into a **fast, affordable, and standardized dining experience**, earning it the title of **“China’s national fast-food brand.”**
+
+---
+
+### **KFC (Kentucky Fried Chicken)**
+
+KFC was founded by Colonel Harland Sanders in Kentucky, USA, in 1930. It started as a small roadside restaurant serving fried chicken and gradually grew into one of the largest fast-food chains in the world. KFC entered China in 1987 and quickly became a cultural icon, adapting its menu to local tastes with items like **egg tarts, rice bowls, and spicy chicken burgers**. Its famous “secret recipe” of eleven herbs and spices remains one of the best-kept secrets in the food industry.
+
+---
+
+### **Pizza Hut**
+
+Pizza Hut was established in 1958 in Wichita, Kansas, by two brothers, Dan and Frank Carney. It is known for its **variety of pizzas, pasta, and side dishes**, offering a more casual dining experience than typical fast-food chains. In China, Pizza Hut presents itself as a family-friendly restaurant, often incorporating local ingredients and seasonal dishes. Its success lies in combining **Western-style pizza with a sit-down dining atmosphere** that appeals to both young people and families.
 
 ---
 
@@ -63,16 +74,6 @@ Wallace was established in 2009 and quickly became one of the **most affordable 
 ### **Hualefeng (欢乐峰)**
 
 Hualefeng is another emerging Chinese fast-food brand that focuses on **fried chicken and burgers**, often emphasizing **local ingredients and quick service**. It has built its reputation through **cost-effective combo meals and strong local branding**. Though not as famous as KFC or Dicos, Hualefeng represents the new wave of **homegrown fast-food chains** adapting global models to Chinese consumer needs.
-
----
-
-### Lao Xiang Ji (老乡鸡)
-
-![](../../../attachments/Pasted%20image%2020251107154551.png)
-
-- [https://lxjchina.com.cn/](https://lxjchina.com.cn/)
-
-Founded in 2003 in Anhui Province, Lao Xiang Ji (literally “Country Chicken”) began as a **local restaurant serving traditional Chinese chicken rice**. Unlike most Western-style fast-food chains, Lao Xiang Ji specializes in **Chinese-style set meals**, including **stewed chicken soup, rice, and vegetables**. It has successfully modernized Chinese comfort food into a **fast, affordable, and standardized dining experience**, earning it the title of **“China’s national fast-food brand.”**
 
 ---
 
