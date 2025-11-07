@@ -9,7 +9,7 @@ done: true
 
 # KFC | 肯德基
 
-![](../attachments/kfc.png)
+![](../../attachments/kfc.png)
 
 - [https://www.kfc.com.cn/](https://www.kfc.com.cn/)
 

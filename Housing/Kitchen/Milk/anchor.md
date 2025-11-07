@@ -1,7 +1,7 @@
 ---
 title: Anchor
 layout: page
-parent: Kitchen
+parent: Milk
 date: 2025-10-30
 url: https://www.anchor.cn/
 done: true
@@ -9,7 +9,7 @@ done: true
 
 # Anchor | 安佳
 
-![](../attachments/anchor.png)
+![](../../attachments/anchor.png)
 
 - [https://www.asics.com.cn/](https://www.asics.com.cn/)
 

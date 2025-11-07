@@ -9,7 +9,7 @@ done: false
 
 # Weilong | 卫龙
 
-![](../attachments/weilong.png)
+![](../../attachments/weilong.png)
 
 - [https://www.weilongshipin.com/](https://www.weilongshipin.com/)
 

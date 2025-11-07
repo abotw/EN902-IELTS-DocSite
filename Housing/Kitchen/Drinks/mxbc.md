@@ -9,7 +9,7 @@ url: https://www.mxbc.com/
 
 # Mixue Bingcheng | 蜜雪冰城
 
-![](../attachments/mxbc.svg)
+![](../../attachments/mxbc.svg)
 
 - [https://www.mxbc.com/](https://www.mxbc.com/)
 
