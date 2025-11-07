@@ -1,15 +1,15 @@
 ---
 title: Haidilao
 layout: page
-parent: Brands
+parent: Kitchen
 date: 2025-10-30
-done: true
 url: https://www.haidilao.com/
+done: true
 ---
 
-# Haidilao
+# Haidilao | 海底捞
 
-![](attachments/haidilao.svg)
+![](../attachments/haidilao.svg)
 
 - [https://www.haidilao.com/](https://www.haidilao.com/)
 

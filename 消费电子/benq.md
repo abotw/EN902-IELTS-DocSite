@@ -9,7 +9,7 @@ done: true
 
 # BenQ
 
-![](attachments/benq.png)
+![](../Housing/attachments/benq.png)
 
 - [https://www.benq.com.cn/](https://www.benq.com.cn/)
 

@@ -9,7 +9,7 @@ url: https://www.decathlon.com.cn/
 
 # Decathlon
 
-![](attachments/decathlon.png)
+![](../attachments/decathlon.png)
 
 - [https://www.decathlon.com.cn/](https://www.decathlon.com.cn/)
 

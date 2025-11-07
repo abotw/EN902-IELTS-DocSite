@@ -9,7 +9,7 @@ done: true
 
 # ASICS
 
-![](attachments/asics.svg)
+![](../Housing/attachments/asics.svg)
 
 - [https://www.asics.com.cn/](https://www.asics.com.cn/)
 

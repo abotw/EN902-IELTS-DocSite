@@ -9,7 +9,7 @@ url: https://www.biotherm.com.cn/
 
 # Biotherm
 
-![](attachments/biotherm.png)
+![](../attachments/biotherm.png)
 
 - [https://www.biotherm.com.cn/](https://www.biotherm.com.cn/)
 

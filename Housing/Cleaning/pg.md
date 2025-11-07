@@ -2,9 +2,9 @@
 title: P&G
 layout: page
 parent: Brands
-date: 2025-11-02
+date: 2025-11-06
 url: https://www.pg.com.cn/
-done: false
+done: true
 ---
 
 # P&G
@@ -17,6 +17,13 @@ done: false
 {:toc}
 
 - [https://www.pg.com.cn/](https://www.pg.com.cn/)
+
+---
+
+- Head & Shoulders
+- Rejoice
+- Olay
+- Safeguard
 
 ## The Evolution of Procter & Gamble: From a Soap Maker to a Global Household Name
 

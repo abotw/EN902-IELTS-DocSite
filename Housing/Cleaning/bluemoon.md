@@ -16,7 +16,7 @@ done: false
 1. TOC
 {:toc}
 
-![](attachments/bluemoon.png)
+![](../attachments/bluemoon.png)
 
 - [https://www.bluemoon.com.cn/](https://www.bluemoon.com.cn/)
 

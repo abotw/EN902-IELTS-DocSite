@@ -9,7 +9,7 @@ url: https://www.uniqlo.cn/
 
 # Uniqlo
 
-![](attachments/uniqlo.svg)
+![](../Housing/attachments/uniqlo.svg)
 
 - [https://www.uniqlo.cn/](https://www.uniqlo.cn/)
 

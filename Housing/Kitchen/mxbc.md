@@ -1,15 +1,15 @@
 ---
 title: Mixue Bingcheng
 layout: page
-parent: Brands
+parent: Kitchen
 date: 2025-10-30
 done: true
 url: https://www.mxbc.com/
 ---
 
-# Mixue Bingcheng
+# Mixue Bingcheng | 蜜雪冰城
 
-![](attachments/mxbc.svg)
+![](../attachments/mxbc.svg)
 
 - [https://www.mxbc.com/](https://www.mxbc.com/)
 

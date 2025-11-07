@@ -9,7 +9,7 @@ url: https://www.lego.com/zh-cn
 
 # LEGO
 
-![](attachments/lego.svg)
+![](../Housing/attachments/lego.svg)
 
 - [https://www.lego.com/zh-cn](https://www.lego.com/zh-cn)
 

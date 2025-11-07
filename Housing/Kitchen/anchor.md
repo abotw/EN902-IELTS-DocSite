@@ -1,15 +1,15 @@
 ---
 title: Anchor
 layout: page
-parent: Brands
+parent: Kitchen
 date: 2025-10-30
 url: https://www.anchor.cn/
 done: true
 ---
 
-# Anchor
+# Anchor | 安佳
 
-![](attachments/anchor.png)
+![](../attachments/anchor.png)
 
 - [https://www.asics.com.cn/](https://www.asics.com.cn/)
 

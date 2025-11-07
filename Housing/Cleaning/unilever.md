@@ -2,9 +2,9 @@
 title: Unilever
 layout: page
 parent: Brands
-date: 2025-11-02
+date: 2025-11-06
 url: https://www.unilever.com.cn/
-done: false
+done: true
 ---
 
 # Unilever
@@ -16,15 +16,25 @@ done: false
 1. TOC
 {:toc}
 
-![](attachments/unilever.svg)
+![](../attachments/unilever.svg)
 
 - [https://www.unilever.com.cn/](https://www.unilever.com.cn/)
+
+---
+
+- Dove
+- Lux
+- Lipton
+- Knorr
+- OMO
+- Clear
+- Vaseline
 
 ## Unilever: From Soap Maker to Global Sustainability Pioneer — and Its Journey in China
 
 Few companies have shaped the modern consumer world as profoundly as **Unilever**. From the soap that cleans our hands to the ice cream that sweetens our summers, Unilever’s influence is both quiet and constant. Yet behind these everyday comforts lies an extraordinary story — one that began with a humble bar of soap and grew into a global movement toward innovation, sustainability, and social impact.
 
-The story of Unilever begins in the late 19th century, when **William Hesketh Lever**, a visionary British entrepreneur, founded **Lever Brothers**. His goal was revolutionary for the time: to make cleanliness and hygiene accessible to ordinary people. His first product, **Sunlight Soap**, wasn’t just about washing — it was about dignity, health, and progress. Lever marketed it not as a luxury but as a necessity, linking everyday cleanliness to social advancement. This message resonated deeply in the rapidly industrializing world, laying the foundation for a company that would soon expand beyond soap into food, personal care, and beyond.
+The story of Unilever begins in the late 19th century, when **[William Hesketh Lever](https://en.wikipedia.org/wiki/William_Lever,_1st_Viscount_Leverhulme)**, a visionary British entrepreneur, founded **Lever Brothers**. His goal was revolutionary for the time: to make cleanliness and hygiene accessible to ordinary people. His first product, **Sunlight Soap**, wasn’t just about washing — it was about dignity, health, and progress. Lever marketed it not as a luxury but as a necessity, linking everyday cleanliness to social advancement. This message resonated deeply in the rapidly industrializing world, laying the foundation for a company that would soon expand beyond soap into food, personal care, and beyond.
 
 In 1930, Lever Brothers merged with the Dutch margarine producer **Margarine Unie**, giving birth to Unilever — a name that would soon become synonymous with global consumer culture. This merger wasn’t only about scale; it symbolized a union of two essential human needs: cleanliness and nourishment. Throughout the 20th century, Unilever’s portfolio expanded rapidly, adding iconic brands like **Dove, Lux, Lipton, Knorr, and OMO**, each of which became a household staple across continents.
 

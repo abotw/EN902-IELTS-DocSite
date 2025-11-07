@@ -9,7 +9,7 @@ url: https://www.nintendo.com/hk/
 
 # Nintendo
 
-![](attachments/nintendo.webp)
+![](../Housing/attachments/nintendo.webp)
 
 - [https://www.nintendo.com/hk/](https://www.nintendo.com/hk/)
 

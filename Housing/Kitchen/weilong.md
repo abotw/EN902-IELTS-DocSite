@@ -1,22 +1,15 @@
 ---
 title: Weilong
 layout: page
-parent: Brands
-date: 2025-11-02
+parent: Kitchen
+date: 2025-11-07
 url: https://www.weilongshipin.com/
 done: false
 ---
 
-# Weilong
-{:.no_toc}
+# Weilong | 卫龙
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
-![](attachments/weilong.png)
+![](../attachments/weilong.png)
 
 - [https://www.weilongshipin.com/](https://www.weilongshipin.com/)
 

@@ -9,7 +9,7 @@ done: true
 
 # IKEA
 
-![](attachments/ikea.svg)
+![](../attachments/ikea.svg)
 
 - [https://www.ikea.cn/cn/zh/](https://www.ikea.cn/cn/zh/)
 

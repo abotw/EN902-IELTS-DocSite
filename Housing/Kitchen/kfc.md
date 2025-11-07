@@ -1,15 +1,15 @@
 ---
 title: KFC
 layout: page
-parent: Brands
+parent: Kitchen
 date: 2025-10-30
-done: true
 url: https://www.kfc.com.cn/
+done: true
 ---
 
-# KFC
+# KFC | 肯德基
 
-![](attachments/kfc.png)
+![](../attachments/kfc.png)
 
 - [https://www.kfc.com.cn/](https://www.kfc.com.cn/)
 

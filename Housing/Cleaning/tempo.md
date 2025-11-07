@@ -9,7 +9,7 @@ url: https://www.vinda.com/
 
 # Tempo
 
-![](attachments/tempo.jpg)
+![](../attachments/tempo.jpg)
 
 - [https://www.vinda.com/](https://www.vinda.com/)
 

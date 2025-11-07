@@ -9,7 +9,7 @@ url: https://panasonic.cn/
 
 # Panasonic
 
-![](attachments/panasonic.svg)
+![](../attachments/panasonic.svg)
 
 - [https://panasonic.cn/](https://panasonic.cn/)
 

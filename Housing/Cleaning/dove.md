@@ -9,7 +9,7 @@ url: https://www.unilever.com.cn/brands/beauty-wellbeing/dove/
 
 # Dove
 
-![](attachments/dove.avif)
+![](../attachments/dove.avif)
 
 - [https://www.unilever.com.cn/brands/beauty-wellbeing/dove/](https://www.unilever.com.cn/brands/beauty-wellbeing/dove/)
 
