@@ -1,7 +1,7 @@
 ---
 title: Anchor
 layout: page
-parent: Milk
+parent: Drinks
 date: 2025-10-30
 url: https://www.anchor.cn/
 done: true
