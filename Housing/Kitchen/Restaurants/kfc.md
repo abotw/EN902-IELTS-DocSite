@@ -1,7 +1,7 @@
 ---
 title: KFC
 layout: page
-parent: Kitchen
+parent: Restaurants
 date: 2025-10-30
 url: https://www.kfc.com.cn/
 done: true

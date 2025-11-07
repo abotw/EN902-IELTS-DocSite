@@ -1,6 +1,7 @@
 ---
 title: Restaurants
 has_children: "true"
+parent: Kitchen
 ---
 
 # Restaurants
@@ -23,15 +24,21 @@ Pizza Hut was established in 1958 in Wichita, Kansas, by two brothers, Dan and F
 
 ---
 
-### **McDonald’s**
+### McDonald’s
+
+![](../../../attachments/mcd.jpg)
+
+- [https://www.mcdonalds.com.cn/](https://www.mcdonalds.com.cn/)
 
 Founded in 1940 by Richard and Maurice McDonald and later expanded by Ray Kroc, McDonald’s revolutionized the fast-food industry through standardization and efficiency. With its golden arches, McDonald’s is now a global symbol of American culture. Its signature products, such as the **Big Mac, French fries, and Chicken McNuggets**, have become household names. In China, McDonald’s is known as **“Màidāngláo”**, and it continues to localize its menu with items like **spicy chicken wings and bubble tea**.
 
 ---
 
-### **Wesley (魏斯理)**
+### Mr. Wei Burger (魏斯理)
 
-Wesley is a newer and lesser-known Chinese fast-food brand that focuses on **Western-style burgers and fried chicken**. While it draws inspiration from global brands like McDonald’s and KFC, Wesley emphasizes **affordable pricing and local flavors**, aiming to compete in China’s rapidly growing fast-food market. Its menu often features **innovative burgers, crispy chicken, and combo meals** designed to attract young customers.
+- [https://www.weijia1999.com/html/brand/266.html](https://www.weijia1999.com/html/brand/266.html)
+
+Mr. Wei Burger is a newer and lesser-known Chinese fast-food brand that focuses on **Western-style burgers and fried chicken**. While it draws inspiration from global brands like McDonald’s and KFC, Mr. Wei Burger emphasizes **affordable pricing and local flavors**, aiming to compete in China’s rapidly growing fast-food market. Its menu often features **innovative burgers, crispy chicken, and combo meals** designed to attract young customers.
 
 ---
 
@@ -59,7 +66,11 @@ Hualefeng is another emerging Chinese fast-food brand that focuses on **fried ch
 
 ---
 
-### **Lao Xiang Ji (老乡鸡)**
+### Lao Xiang Ji (老乡鸡)
+
+![](../../../attachments/Pasted%20image%2020251107154551.png)
+
+- [https://lxjchina.com.cn/](https://lxjchina.com.cn/)
 
 Founded in 2003 in Anhui Province, Lao Xiang Ji (literally “Country Chicken”) began as a **local restaurant serving traditional Chinese chicken rice**. Unlike most Western-style fast-food chains, Lao Xiang Ji specializes in **Chinese-style set meals**, including **stewed chicken soup, rice, and vegetables**. It has successfully modernized Chinese comfort food into a **fast, affordable, and standardized dining experience**, earning it the title of **“China’s national fast-food brand.”**
 

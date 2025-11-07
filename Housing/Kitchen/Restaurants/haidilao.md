@@ -1,7 +1,7 @@
 ---
 title: Haidilao
 layout: page
-parent: Kitchen
+parent: Restaurants
 date: 2025-10-30
 url: https://www.haidilao.com/
 done: true
