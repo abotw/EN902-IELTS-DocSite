@@ -69,16 +69,11 @@ parent: Kitchen
 
 ## 🥬 4. Vegetables & Toppings
 
-|Word|Meaning|Example|
-|---|---|---|
-|**lettuce**|green leafy vegetable|Lettuce adds crunch and freshness.|
-|**tomato**|red, juicy vegetable|Tomatoes make sandwiches more colorful.|
-|**onion**|can be raw, grilled, or caramelized|I prefer grilled onions for extra flavor.|
-|**pickles**|cucumbers preserved in vinegar|Pickles give sandwiches a tangy taste.|
-|**avocado**|creamy green fruit|Avocado makes any sandwich richer.|
-|**spinach**|leafy green vegetable|Spinach is a healthy alternative to lettuce.|
-|**olives**|small, salty fruit used as topping|Black olives add a Mediterranean flavor.|
-|**bell pepper**|crunchy, colorful vegetable|Add some red bell peppers for sweetness.|
+| Word            | Meaning                            | Example                                  |
+| --------------- | ---------------------------------- | ---------------------------------------- |
+| **pickles**     | cucumbers preserved in vinegar     | Pickles give sandwiches a tangy taste.   |
+| **avocado**     | creamy green fruit                 | Avocado makes any sandwich richer.       |
+| **olives**      | small, salty fruit used as topping | Black olives add a Mediterranean flavor. |
 
 ---
 
