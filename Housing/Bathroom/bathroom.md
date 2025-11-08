@@ -5,6 +5,13 @@ parent: Housing
 ---
 
 # 🛁 Bathroom
+{:.no_toc}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## 1️⃣ Main Fixtures
 
@@ -72,12 +79,12 @@ parent: Housing
 - bathrobe
 - plug
 - sliding door
+- bath towel
 
 ### 🛀 Bathtub (if present)
 
 - bathtub
 - rubber mat
-- bath towel
 
 ---
 
