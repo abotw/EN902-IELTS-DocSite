@@ -5,6 +5,8 @@ parent: Kitchen
 ---
 
 # Fruit
+
+# 🍎 Fruits
 {:.no_toc}
 
 ## Table of contents
@@ -14,10 +16,6 @@ parent: Kitchen
 {:toc}
 
 - [Fruit A-Z](fruit-a_z.pdf)
-
----
-
-# 🍎 Fruits
 
 ## 🍏 1. Common Fruits — 常见水果
 
