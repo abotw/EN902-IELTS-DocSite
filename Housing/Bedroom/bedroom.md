@@ -118,12 +118,7 @@ parent: Housing
 ## 7️⃣ Extra
 
 - comfort (n.) 舒适感
-    
 - cozy (adj.) 温馨的
-    
 - tidy (v.) 整理
-    
 - messy (adj.) 凌乱的
-    
 - bedtime (n.) 就寝时间
-    
