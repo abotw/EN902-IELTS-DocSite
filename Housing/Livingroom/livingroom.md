@@ -137,17 +137,17 @@ parent: Housing
 
 ## 💡雅思口语高分句型示例
 
-1. **描述环境**
+**描述环境**
 
 
 > My living room is the heart of my home. It’s bright, tidy, and decorated with warm colors.
 
-2. **表达感受**
+**表达感受**
 
 
 > I love spending time there because it feels so cozy and peaceful, especially in the evening when the lamps are on.
 
-3. **细节描写**
+**细节描写**
 
 
 > There’s a comfortable sofa with soft throw pillows, a big TV opposite it, and a small coffee table where I usually keep some magazines and snacks.
