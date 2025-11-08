@@ -5,6 +5,13 @@ parent: Housing
 ---
 
 # 🛏️ Bedroom
+{:.no_toc}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## 1️⃣ Room Structure & Decoration
 
