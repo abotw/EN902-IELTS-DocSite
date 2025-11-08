@@ -5,6 +5,13 @@ parent: Academic
 date: 2025-11-08
 ---
 # Universe
+{:.no_toc}
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## 🌌 1. The Universe and Beyond （宇宙与其奥秘）
 
