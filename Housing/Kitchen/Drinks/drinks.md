@@ -1,6 +1,7 @@
 ---
 title: Drinks
 has_children: "true"
+parent: Kitchen
 ---
 
 # Drinks
