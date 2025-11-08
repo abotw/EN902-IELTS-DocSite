@@ -45,6 +45,10 @@ date: 2025-11-08
 
 ### The Planets（八大行星）
 
+- [https://science.nasa.gov/solar-system/planets/](https://science.nasa.gov/solar-system/planets/)
+
+![](../attachments/Pasted%20image%2020251108221800.png)
+
 |Planet|Description|
 |---|---|
 |**Mercury**|closest to the Sun, extremely hot|
