@@ -6,6 +6,8 @@ parent: Housing
 
 # Livingroom
 
+1. hamper
+
 
 
 
