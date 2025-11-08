@@ -1,7 +1,7 @@
 ---
 title: Miaojie
 layout: page
-parent: Brands
+parent: Bathroom
 date: 2025-11-02
 url: https://www.miaojie.com.cn/
 done: false

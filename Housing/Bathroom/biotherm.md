@@ -1,7 +1,7 @@
 ---
 title: Biotherm
 layout: page
-parent: Brands
+parent: Bathroom
 date: 2025-10-30
 done:
 url: https://www.biotherm.com.cn/

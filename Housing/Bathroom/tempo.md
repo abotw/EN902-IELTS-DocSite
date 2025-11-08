@@ -1,7 +1,7 @@
 ---
 title: Tempo
 layout: page
-parent: Brands
+parent: Bathroom
 date: 2025-10-30
 done: true
 url: https://www.vinda.com/

@@ -1,7 +1,7 @@
 ---
 title: Bluemoon
 layout: page
-parent: Brands
+parent: Bathroom
 date: 2025-11-02
 url: https://www.bluemoon.com.cn/
 done: false

@@ -1,7 +1,7 @@
 ---
 title: Loreal
 layout: page
-parent: Brands
+parent: Bathroom
 date: 2025-11-02
 url: https://www.lorealchina.com/zh/
 done: false

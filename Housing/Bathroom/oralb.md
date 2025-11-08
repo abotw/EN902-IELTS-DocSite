@@ -1,7 +1,7 @@
 ---
 title: Oral-B
 layout: page
-parent: Brands
+parent: Bathroom
 date: 2025-11-02
 url: https://www.oralb.com.cn/
 done: false

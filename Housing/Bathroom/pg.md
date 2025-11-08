@@ -1,7 +1,7 @@
 ---
 title: P&G
 layout: page
-parent: Brands
+parent: Bathroom
 date: 2025-11-06
 url: https://www.pg.com.cn/
 done: true

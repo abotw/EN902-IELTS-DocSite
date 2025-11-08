@@ -1,7 +1,7 @@
 ---
 title: Unilever
 layout: page
-parent: Brands
+parent: Bathroom
 date: 2025-11-06
 url: https://www.unilever.com.cn/
 done: true

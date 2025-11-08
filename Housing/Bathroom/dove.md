@@ -1,7 +1,7 @@
 ---
 title: Dove
 layout: page
-parent: Brands
+parent: Bathroom
 date: 2025-10-31
 done: false
 url: https://www.unilever.com.cn/brands/beauty-wellbeing/dove/
