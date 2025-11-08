@@ -1,11 +1,10 @@
 ---
-title: Kitchen
+title: Bathroom
 has_children: "true"
 parent: Housing
 ---
 
-# Kitchen
-
+# Bathroom
 
 
 
