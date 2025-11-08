@@ -1,7 +1,7 @@
 ---
 title: New Balance
 layout: page
-parent: Brands
+parent: Clothing
 date: 2025-10-31
 done: false
 url: https://www.newbalance.com.cn/

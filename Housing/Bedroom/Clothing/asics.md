@@ -1,7 +1,7 @@
 ---
 title: ASICS
 layout: page
-parent: Brands
+parent: Clothing
 date: 2025-10-30
 url: https://www.asics.com.cn/
 done: true

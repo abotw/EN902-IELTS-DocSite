@@ -1,7 +1,7 @@
 ---
-title: Bedroom
+title: Clothing
 has_children: "true"
-parent: Clothing
+parent: Bedroom
 ---
 
 # Clothing

@@ -1,7 +1,7 @@
 ---
 title: UNIQLO
 layout: page
-parent: Brands
+parent: Clothing
 date: 2025-10-30
 done: false
 url: https://www.uniqlo.cn/

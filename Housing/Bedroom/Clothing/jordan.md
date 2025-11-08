@@ -1,7 +1,7 @@
 ---
 title: Jordan
 layout: page
-parent: Brands
+parent: Clothing
 date: 2025-11-02
 url: https://www.nike.com.cn/jordan
 done: false
