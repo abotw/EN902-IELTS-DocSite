@@ -72,7 +72,7 @@ parent: Housing
 
 ---
 
-### 4. Entertainment & Electronics
+## 4. Entertainment & Electronics
 
 |英文|中文|常用搭配|
 |---|---|---|
