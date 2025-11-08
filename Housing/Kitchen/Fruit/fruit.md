@@ -4,8 +4,6 @@ has_children: "true"
 parent: Kitchen
 ---
 
-# Fruit
-
 # 🍎 Fruits
 {:.no_toc}
 
